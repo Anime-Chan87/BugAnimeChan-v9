@@ -1,6 +1,6 @@
 # CATATAN ( NOTE )
 Base - The Jo Bot
-Recode - The Jo Bot
+Recode - AnimeChan
 
 Jangan dijual kontol!!!
 Gw yg capek lu yg jual yg hanya tinggal nyomot dan rename.
@@ -10,14 +10,14 @@ Di TQ TO nama gw jgn dihapus bangsat.
 
 Best Regards. The Jo Bot
 
-# THE_JO_BOT
+# ANIMECHAN
 Script WhatsApp Bot Multi Device
 
 ## NOTE
 This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
 
 <p align="center">
-	<img src="https://telegra.ph/file/094abb98c63d1fbac703e.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://telegra.ph/file/485b87a502f8168aebae0.jpg" width="65%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">THE_JO_BOT</h1>
 
@@ -37,7 +37,7 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 
 ```bash
-git https://github.com/THEJO307/private
+https://github.com/Anime-Chan87/BugAnimeChan-v9
 cd private
 npm install
 ```
@@ -58,8 +58,8 @@ pkg update && pkg upgrade
 pkg install git -y
 pkg install nodejs -y
 pkg install ffmpeg -y
-git clone https://github.com/THEJO307/private
-cd private
+https://github.com/Anime-Chan87/BugAnimeChan-v9
+cd BugAnimeChan-v9
 npm install
 ```
 
@@ -94,7 +94,7 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 * [`Fatih Arridho`](https://github.com/FatihArridho)
 * [`zhwzein`](https://github.com/zhwzein)
 * [`CAF-ID`](https://github.com/CAF-ID)
-* [`bintang`](https://github.com/Bintangp02)
+* [`bintang`](https://github.com/Anime-Chan87)
 
 ```Thanks to all who have participated in the development of this script```
 
