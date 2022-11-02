@@ -8,7 +8,7 @@ Kalau cuma rename anak esde jg bisa.
 Rename sewajarnyalah!!!
 Di TQ TO nama gw jgn dihapus bangsat.
 
-Best Regards. The Jo Bot
+Best Regards. Animechan
 
 # ANIMECHAN
 Script WhatsApp Bot Multi Device
